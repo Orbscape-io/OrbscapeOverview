@@ -18,3 +18,4 @@ Orbscape is meant to be a self describing and evolving software ecosystem as wel
 
 <img width="1407" height="930" alt="image" src="https://github.com/user-attachments/assets/ef91f90a-1cca-4264-8cbe-29552ba6a1b3" />
 
+<img width="1900" height="901" alt="image" src="https://github.com/user-attachments/assets/3d739001-fce0-4206-8407-3294e987a962" />
